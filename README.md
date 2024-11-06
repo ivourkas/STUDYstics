@@ -1,3 +1,4 @@
+# A Database with Masters degrees
 This project was completed as part of the Database course in the 10th semester of the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki.
 
 For STUDYstics, the goal is to build a Database that will contain data on postgraduate programs. The application will include programs from a wide range of universities worldwide, 
